@@ -73,6 +73,6 @@ All steps were recorded in a work note, and the task was closed as **Closed Comp
 - **Hybrid environments:** disabling the account in **on-premises Active Directory**, which syncs to Entra ID
 - Deleting the account after the company's **retention period**
 
-## Interview takeaway
+## Summary
 
-> "For a leaver I block sign-in and revoke sessions, convert the mailbox to shared and give the manager Full Access, then remove the licence. Converting first matters, because a user mailbox without a licence is deleted after 30 days, while a shared mailbox doesn't need one."
+Blocked sign-in and revoked sessions, converted the mailbox to shared and gave the manager Full Access, then removed the licence. Converting first matters: a user mailbox without a licence is deleted after 30 days, while a shared mailbox doesn't need one.

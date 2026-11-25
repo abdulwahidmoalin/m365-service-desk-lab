@@ -66,6 +66,6 @@ State set to **Resolved** with resolution code *Resolved – Permanent Fix Appli
 
 **Self-service password reset (SSPR)**, an Entra ID P1 feature, would let users like Kima reset their own password at `aka.ms/sspr`, cutting down on calls like this one. *Planned as a follow-up lab.*
 
-## Interview takeaway
+## Summary
 
-> "I reset it with an auto-generated temporary password and forced a change at next sign-in, gave it to the user verbally after verifying her identity, never recorded it in the ticket, and documented each step in ServiceNow."
+Reset the password with an auto-generated temporary password and a forced change at next sign-in, gave it to the user verbally after verifying her identity, never recorded it in the ticket, and documented each step in ServiceNow.
